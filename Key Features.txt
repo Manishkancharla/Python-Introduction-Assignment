@@ -1,0 +1,8 @@
+Key Features of Python :-
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-> Python is a high level, general purpose programming language.
+-> It is easy to learn & read.
+-> It have lot of libraries.
+-> It have a huge active community.
+-> It is used in "Web Developing, Data Analytics, Data Science and Machine Learning".
+-> The python is invented by "Guido Van Rossum" in 1991.
